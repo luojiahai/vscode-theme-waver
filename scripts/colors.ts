@@ -117,7 +117,7 @@ export const WaverThemes = {
   selectionBackgroundInActive: ["#eeeeee10", "#22222210"],
 
   comment: ["#808080dd", "#aaaaaaff"],
-  string: ["#c9ccd0", "#61666d"],
+  string: ["#aeb3b9", "#61666d"],
   variable: ["#63a6bf", "#2982a3"],
   keyword: ["#d97395", "#a1385b"],
   number: ["#63a6bf", "#2982a3"],
