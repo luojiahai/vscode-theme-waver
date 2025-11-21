@@ -188,10 +188,10 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "namespace": "#d97395",
-    "property": "#d4976c",
+    "property": "#d97395",
     "interface": "#cb7976",
     "type": "#cb7976",
-    "class": "#77934d"
+    "class": "#cb7976"
   },
   "tokenColors": [
     {
@@ -329,13 +329,13 @@
         "punctuation.support.type.property-name"
       ],
       "settings": {
-        "foreground": "#d4976c77"
+        "foreground": "#d9739577"
       }
     },
     {
       "scope": "support",
       "settings": {
-        "foreground": "#d4976c"
+        "foreground": "#d97395"
       }
     },
     {
@@ -347,7 +347,7 @@
         "attribute.name"
       ],
       "settings": {
-        "foreground": "#d4976c"
+        "foreground": "#d97395"
       }
     },
     {
@@ -374,7 +374,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#cb7976"
+        "foreground": "#d4976c"
       }
     },
     {
@@ -390,7 +390,7 @@
         "meta.var.expr.ts"
       ],
       "settings": {
-        "foreground": "#d97395"
+        "foreground": "#63a6bf"
       }
     },
     {
@@ -659,7 +659,7 @@
         "constant.other.character-class.regexp"
       ],
       "settings": {
-        "foreground": "#77934d"
+        "foreground": "#cb7976"
       }
     },
     {
