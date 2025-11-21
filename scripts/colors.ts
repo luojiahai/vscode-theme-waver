@@ -99,7 +99,6 @@ export const colors = {
   ],
 };
 
-// [dark, light]
 export const WaverThemes = {
   primary: ["#30c0c0", "#008080"],
 
@@ -136,7 +135,6 @@ export const WaverThemes = {
   decorator: ["#bd8f8f", "#bd8f8f"],
   regex: ["#c4704f", "#ab5e3f"],
 
-  // colors
   green: ["#88cc24", "#67a70e"],
   cyan: ["#14c4bf", "#03a29f"],
   blue: ["#00aeec", "#0087bd"],

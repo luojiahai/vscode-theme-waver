@@ -1,7 +1,7 @@
 import fs from "fs-extra";
 import getTheme from "./theme";
 
-console.log("starting");
+console.log("begin");
 
 fs.mkdir("./themes", { recursive: true }).then(() =>
   Promise.all([
@@ -24,4 +24,4 @@ fs.mkdir("./themes", { recursive: true }).then(() =>
   ])
 );
 
-console.log("finished");
+console.log("end");

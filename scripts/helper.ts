@@ -11,7 +11,6 @@ function toArray<T>(array: T | T[]): T[] {
 
 function getColors(style: "light" | "dark"): typeof colors {
   if (style === "dark") {
-    // the array of light to dark colors are reversed to auto-generate dark theme
     const darkColors: Record<string, unknown> = {};
     Object.entries(colors).forEach(([name, val]) => {
       if (name === "black") darkColors.white = val;
