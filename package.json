@@ -1,8 +1,8 @@
 {
   "publisher": "luojiahai",
   "name": "vscode-theme-waver",
-  "displayName": "Waver Theme",
-  "description": "Waver theme for VSCode",
+  "displayName": "Waver VSCode Theme",
+  "description": "todo",
   "version": "0.0.1",
   "packageManager": "pnpm@10.20.0",
   "repository": {

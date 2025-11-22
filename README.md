@@ -1,3 +1,3 @@
-# waver theme for vscode
+# waver vscode theme
 
 todo
