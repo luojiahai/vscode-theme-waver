@@ -10,6 +10,8 @@ import {
   lightblue,
   cyan,
   magenta,
+  lightyellow,
+  lightgreen,
 } from "waver-color";
 
 export const colors = {
@@ -26,7 +28,7 @@ export const colors = {
 };
 
 export const WaverThemes = {
-  primary: ["#30c0c0", "#008080"],
+  primary: [cyan(4).saturated(), cyan(6).saturated()],
 
   foreground: ["#dbd7caee", "#393a34"],
   activeForeground: ["#bfbaaa", "#4e4f47"],
@@ -43,23 +45,23 @@ export const WaverThemes = {
   selectionBackgroundInActive: ["#eeeeee16", "#22222216"],
 
   comment: ["#808080dd", "#aaaaaaff"],
-  string: [gray(1).saturated(), gray(6).saturated()],
+  string: [orange(4).saturated(), gray(6).saturated()],
   variable: [lightblue(4).saturated(), lightblue(6).saturated()],
   keyword: [pink().saturated(), pink(6).saturated()],
-  number: [cyan(4).saturated(), cyan(6).saturated()],
+  number: [lightgreen(4).saturated(), lightgreen(6).saturated()],
   boolean: [cyan(4).saturated(), cyan(6).saturated()],
   operator: [orange(4).saturated(), orange(6).saturated()],
-  function: [yellow(4).saturated(), yellow(6).saturated()],
-  constant: [orange(4).saturated(), orange(6).saturated()],
-  class: [red().saturated(), red(6).saturated()],
-  interface: [red().saturated(), red(6).saturated()],
-  type: [orange(4).saturated(), orange(6).saturated()],
-  builtin: [green(4).saturated(), green(6).saturated()],
+  function: [lightyellow(3).saturated(), lightyellow(6).saturated()],
+  constant: [lightgreen(4).saturated(), lightgreen(6).saturated()],
+  class: [green(4).saturated(), green(6).saturated()],
+  interface: [green(4).saturated(), green(6).saturated()],
+  type: [green(4).saturated(), green(6).saturated()],
+  builtin: [blue().saturated(), blue(6).saturated()],
   property: [pink().saturated(), pink(6).saturated()],
   namespace: [pink().saturated(), pink(6).saturated()],
-  punctuation: ["#666666", "#999999"],
+  punctuation: [gray(4).hex(), gray(6).hex()],
   decorator: [red().saturated(), red(6).saturated()],
-  regex: [orange(4).saturated(), orange(6).saturated()],
+  regex: [red().saturated(), red(6).saturated()],
 
   green: [green().saturated(), green(6).saturated()],
   cyan: [cyan().saturated(), cyan(6).saturated()],
