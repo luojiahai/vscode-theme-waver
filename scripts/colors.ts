@@ -63,11 +63,11 @@ export const WaverThemes = {
   decorator: [red.get("4_s").hex(), red.get("6_s").hex()],
   regex: [red.get("4_s").hex(), red.get("6_s").hex()],
 
-  green: [green.get("4_s").hex(), green.get("6_s").hex()],
-  cyan: [cyan.get("4_s").hex(), cyan.get("6_s").hex()],
-  blue: [blue.get("4_s").hex(), blue.get("6_s").hex()],
-  red: [red.get("4_s").hex(), red.get("6_s").hex()],
-  orange: [orange.get("4_s").hex(), orange.get("6_s").hex()],
-  yellow: [yellow.get("4_s").hex(), yellow.get("6_s").hex()],
-  magenta: [magenta.get("4_s").hex(), magenta.get("6_s").hex()],
+  green: [green.get("5_s").hex(), green.get("6_s").hex()],
+  cyan: [cyan.get("5_s").hex(), cyan.get("6_s").hex()],
+  blue: [blue.get("5_s").hex(), blue.get("6_s").hex()],
+  red: [red.get("5_s").hex(), red.get("6_s").hex()],
+  orange: [orange.get("5_s").hex(), orange.get("6_s").hex()],
+  yellow: [yellow.get("5_s").hex(), yellow.get("6_s").hex()],
+  magenta: [magenta.get("5_s").hex(), magenta.get("6_s").hex()],
 } satisfies Record<string, [string, string] | string>;
