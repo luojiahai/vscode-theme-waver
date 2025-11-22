@@ -44,7 +44,7 @@ export const WaverThemes = {
   selectionBackgroundInActive: ["#eeeeee10", "#22222210"],
 
   comment: ["#808080dd", "#aaaaaaff"],
-  string: [gray(2).saturated(), gray(6).saturated()],
+  string: [gray(1).saturated(), gray(6).saturated()],
   variable: [lightblue(4).saturated(), lightblue(6).saturated()],
   keyword: [pink().saturated(), pink(6).saturated()],
   number: [cyan().saturated(), cyan(6).saturated()],
