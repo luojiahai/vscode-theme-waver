@@ -8,9 +8,6 @@ importers:
 
   .:
     devDependencies:
-      '@luojiahai/waver':
-        specifier: ^0.0.4
-        version: 0.0.4
       '@types/color':
         specifier: ^4.2.0
         version: 4.2.0
@@ -41,6 +38,9 @@ importers:
       typescript-eslint:
         specifier: ^8.47.0
         version: 8.47.0(eslint@9.39.1)(typescript@5.9.3)
+      waver-color:
+        specifier: ^0.0.10
+        version: 0.0.10
 
 packages:
 
@@ -323,9 +323,6 @@ packages:
   '@isaacs/cliui@8.0.2':
     resolution: {integrity: sha512-O8jcjabXaleOG9DQ0+ARXWZBTfnP4WNAqzuiJK7ll44AmxGKv/J2M4TPjxjY3znBCfvBXFzucm1twdyFybFqEA==}
     engines: {node: '>=12'}
-
-  '@luojiahai/waver@0.0.4':
-    resolution: {integrity: sha512-D4pnl6otGTUMmy4yJmN+4P/Pzb69zvOGExBE+UswTsCcXOI2yoZxZmUjjKJz0h6o60lGGqpaknd7pxWpbFjP9g==}
 
   '@nodelib/fs.scandir@2.1.5':
     resolution: {integrity: sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g==}
@@ -1692,6 +1689,9 @@ packages:
     resolution: {integrity: sha512-Ck0EJbAGxHwprkzFO966t4/5QkRuzh+/I1RxhLgUKKwEn+Cd8NwM60mE3AqBZg5gYODoXW0EFsQvbZjRlvdqbg==}
     engines: {node: '>=4'}
 
+  waver-color@0.0.10:
+    resolution: {integrity: sha512-mZra7JqIo2+kzG+RSzg+ihyqle1ho1bKLGD65XyU3mnkujneNYZB7m05oIFkXlg88xaQ7isu+TQWTvZJHM+Fpg==}
+
   whatwg-encoding@3.1.1:
     resolution: {integrity: sha512-6qN4hJdMwfYBtE3YBTTHhoeuUrDBPZmbQaxWAqSALV/MeEnR5z1xd8UKud2RAkFoPkmB+hli1TZSnyi84xz1vQ==}
     engines: {node: '>=18'}
@@ -1993,8 +1993,6 @@ snapshots:
       strip-ansi-cjs: strip-ansi@6.0.1
       wrap-ansi: 8.1.0
       wrap-ansi-cjs: wrap-ansi@7.0.0
-
-  '@luojiahai/waver@0.0.4': {}
 
   '@nodelib/fs.scandir@2.1.5':
     dependencies:
@@ -3547,6 +3545,8 @@ snapshots:
       spdx-expression-parse: 3.0.1
 
   version-range@4.15.0: {}
+
+  waver-color@0.0.10: {}
 
   whatwg-encoding@3.1.1:
     dependencies:

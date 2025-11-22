@@ -11,7 +11,7 @@ import {
   cyan,
   lightyellow,
   magenta,
-} from "@luojiahai/waver";
+} from "waver-color";
 
 export const colors = {
   black: "#111",
