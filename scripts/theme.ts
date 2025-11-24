@@ -5,20 +5,17 @@ import { createThemeHelpers } from "./helper";
 export default function getTheme(options: GetThemeOptions) {
   const { pick, v, colors } = createThemeHelpers(options);
 
-  const foreground = v("foreground");
-  const secondaryForeground = v("secondaryForeground");
-  const activeForeground = v("activeForeground");
   const primary = v("primary");
-
+  const foreground = v("foreground");
+  const activeForeground = v("activeForeground");
+  const secondaryForeground = v("secondaryForeground");
   const border = v("border");
   const background = v("background");
   const activeBackground = v("activeBackground");
-
-  const punctuation = v("punctuation");
-
   const selectionBackground = v("selectionBackground");
   const selectionBackgroundActive = v("selectionBackgroundActive");
-  const selectionBackgroundInActive = v("selectionBackgroundInActive");
+  const selectionBackgroundInactive = v("selectionBackgroundInactive");
+  const punctuation = v("punctuation");
 
   const theme = {
     name: options.name,
@@ -163,9 +160,9 @@ export default function getTheme(options: GetThemeOptions) {
         light: "#e6cc7766",
         dark: "#e6cc7744",
       }),
-      "editor.inactiveSelectionBackground": selectionBackgroundInActive,
+      "editor.inactiveSelectionBackground": selectionBackgroundInactive,
       "editor.selectionBackground": selectionBackground,
-      "editor.selectionHighlightBackground": selectionBackgroundInActive,
+      "editor.selectionHighlightBackground": selectionBackgroundInactive,
       "editor.wordHighlightBackground": pick({
         light: "#1c6b4805",
         dark: "#1c6b4805",
@@ -413,13 +410,13 @@ export default function getTheme(options: GetThemeOptions) {
       {
         scope: ["punctuation.definition.string"],
         settings: {
-          foreground: v("string", "77"),
+          foreground: v("string", "90"),
         },
       },
       {
         scope: ["punctuation.support.type.property-name"],
         settings: {
-          foreground: v("property", "77"),
+          foreground: v("property", "90"),
         },
       },
       {

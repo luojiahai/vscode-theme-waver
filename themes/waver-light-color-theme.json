@@ -30,7 +30,7 @@
     "badge.foreground": "#ffffff",
     "badge.background": "#35393b90",
     "progressBar.background": "#5789A2",
-    "titleBar.activeForeground": "#aab8bf",
+    "titleBar.activeForeground": "#464c4f",
     "titleBar.activeBackground": "#ffffff",
     "titleBar.inactiveForeground": "#686A6B",
     "titleBar.inactiveBackground": "#ffffff",
@@ -39,10 +39,10 @@
     "activityBar.inactiveForeground": "#35393b50",
     "activityBar.background": "#ffffff",
     "activityBarBadge.foreground": "#ffffff",
-    "activityBarBadge.background": "#aab8bf",
+    "activityBarBadge.background": "#464c4f",
     "activityBar.activeBorder": "#5789A2",
     "activityBar.border": "#ebebeb",
-    "sideBar.foreground": "#aab8bf",
+    "sideBar.foreground": "#464c4f",
     "sideBar.background": "#ffffff",
     "sideBar.border": "#ebebeb",
     "sideBarTitle.foreground": "#35393b",
@@ -72,12 +72,12 @@
     "quickInput.background": "#ffffff",
     "quickInput.foreground": "#35393b",
     "quickInputList.focusBackground": "#f7f7f7",
-    "statusBar.foreground": "#aab8bf",
+    "statusBar.foreground": "#464c4f",
     "statusBar.background": "#ffffff",
     "statusBar.border": "#ebebeb",
     "statusBar.noFolderBackground": "#ffffff",
     "statusBar.debuggingBackground": "#f7f7f7",
-    "statusBar.debuggingForeground": "#aab8bf",
+    "statusBar.debuggingForeground": "#464c4f",
     "statusBarItem.prominentBackground": "#f7f7f7",
     "editorGroupHeader.tabsBackground": "#ffffff",
     "editorGroupHeader.tabsBorder": "#ebebeb",
@@ -104,7 +104,7 @@
     "editor.foldBackground": "#22222210",
     "editor.lineHighlightBackground": "#f7f7f7",
     "editorLineNumber.foreground": "#35393b50",
-    "editorLineNumber.activeForeground": "#aab8bf",
+    "editorLineNumber.activeForeground": "#464c4f",
     "editorWhitespace.foreground": "#00000015",
     "editor.findMatchBackground": "#e6cc7744",
     "editor.findMatchHighlightBackground": "#e6cc7766",
@@ -155,12 +155,12 @@
     "editorGutter.modifiedBackground": "#5789A2",
     "editorGutter.addedBackground": "#57A270",
     "editorGutter.deletedBackground": "#A25757",
-    "editorBracketHighlight.foreground1": "#686A6B",
-    "editorBracketHighlight.foreground2": "#686A6B",
-    "editorBracketHighlight.foreground3": "#686A6B",
-    "editorBracketHighlight.foreground4": "#686A6B",
-    "editorBracketHighlight.foreground5": "#686A6B",
-    "editorBracketHighlight.foreground6": "#686A6B",
+    "editorBracketHighlight.foreground1": "#545657",
+    "editorBracketHighlight.foreground2": "#545657",
+    "editorBracketHighlight.foreground3": "#545657",
+    "editorBracketHighlight.foreground4": "#545657",
+    "editorBracketHighlight.foreground5": "#545657",
+    "editorBracketHighlight.foreground6": "#545657",
     "debugToolBar.background": "#ffffff",
     "editor.stackFrameHighlightBackground": "#FFE5B3",
     "editor.focusedStackFrameHighlightBackground": "#FFDD99",
@@ -177,7 +177,7 @@
     "editorHint.foreground": "#57A270",
     "editorGutter.commentRangeForeground": "#35393b50",
     "editorGutter.foldingControlForeground": "#35393b90",
-    "editorInlayHint.foreground": "#686A6B",
+    "editorInlayHint.foreground": "#545657",
     "editorInlayHint.background": "#f7f7f7",
     "editorStickyScroll.background": "#f7f7f7",
     "editorStickyScrollHover.background": "#f7f7f7",
@@ -199,7 +199,7 @@
         "string.comment"
       ],
       "settings": {
-        "foreground": "#aaaaaaff"
+        "foreground": "#a1a9ad"
       }
     },
     {
@@ -226,7 +226,7 @@
         "punctuation.definition.string.end.html.vue"
       ],
       "settings": {
-        "foreground": "#686A6B"
+        "foreground": "#545657"
       }
     },
     {
@@ -311,7 +311,7 @@
         "attribute.value"
       ],
       "settings": {
-        "foreground": "#686A6B"
+        "foreground": "#545657"
       }
     },
     {
@@ -319,7 +319,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#686A6B77"
+        "foreground": "#54565790"
       }
     },
     {
@@ -327,7 +327,7 @@
         "punctuation.support.type.property-name"
       ],
       "settings": {
-        "foreground": "#5789A277"
+        "foreground": "#5789A290"
       }
     },
     {
@@ -435,7 +435,7 @@
     {
       "scope": "string variable",
       "settings": {
-        "foreground": "#686A6B"
+        "foreground": "#545657"
       }
     },
     {
@@ -455,7 +455,7 @@
         "string.regexp string.regexp.arbitrary-repetition"
       ],
       "settings": {
-        "foreground": "#686A6B"
+        "foreground": "#545657"
       }
     },
     {
@@ -638,7 +638,7 @@
         "punctuation.definition.string.end.markdown"
       ],
       "settings": {
-        "foreground": "#686A6B"
+        "foreground": "#545657"
       }
     },
     {

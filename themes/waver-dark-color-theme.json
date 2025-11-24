@@ -155,12 +155,12 @@
     "editorGutter.modifiedBackground": "#7DC4E8",
     "editorGutter.addedBackground": "#7DE8A1",
     "editorGutter.deletedBackground": "#E87D7D",
-    "editorBracketHighlight.foreground1": "#AAB0B3",
-    "editorBracketHighlight.foreground2": "#AAB0B3",
-    "editorBracketHighlight.foreground3": "#AAB0B3",
-    "editorBracketHighlight.foreground4": "#AAB0B3",
-    "editorBracketHighlight.foreground5": "#AAB0B3",
-    "editorBracketHighlight.foreground6": "#AAB0B3",
+    "editorBracketHighlight.foreground1": "#ABB0B2",
+    "editorBracketHighlight.foreground2": "#ABB0B2",
+    "editorBracketHighlight.foreground3": "#ABB0B2",
+    "editorBracketHighlight.foreground4": "#ABB0B2",
+    "editorBracketHighlight.foreground5": "#ABB0B2",
+    "editorBracketHighlight.foreground6": "#ABB0B2",
     "debugToolBar.background": "#0f0f0f",
     "editor.stackFrameHighlightBackground": "#a707",
     "editor.focusedStackFrameHighlightBackground": "#b808",
@@ -179,7 +179,7 @@
     "editorHint.foreground": "#7DE8A1",
     "editorGutter.commentRangeForeground": "#d5dbde50",
     "editorGutter.foldingControlForeground": "#d5dbde90",
-    "editorInlayHint.foreground": "#AAB0B3",
+    "editorInlayHint.foreground": "#ABB0B2",
     "editorInlayHint.background": "#161616",
     "editorStickyScroll.background": "#161616",
     "editorStickyScrollHover.background": "#161616",
@@ -201,7 +201,7 @@
         "string.comment"
       ],
       "settings": {
-        "foreground": "#808080dd"
+        "foreground": "#768085dd"
       }
     },
     {
@@ -228,7 +228,7 @@
         "punctuation.definition.string.end.html.vue"
       ],
       "settings": {
-        "foreground": "#AAB0B3"
+        "foreground": "#ABB0B2"
       }
     },
     {
@@ -313,7 +313,7 @@
         "attribute.value"
       ],
       "settings": {
-        "foreground": "#AAB0B3"
+        "foreground": "#C2C7CA"
       }
     },
     {
@@ -321,7 +321,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#AAB0B377"
+        "foreground": "#C2C7CA90"
       }
     },
     {
@@ -329,7 +329,7 @@
         "punctuation.support.type.property-name"
       ],
       "settings": {
-        "foreground": "#6AA7C577"
+        "foreground": "#6AA7C590"
       }
     },
     {
@@ -437,7 +437,7 @@
     {
       "scope": "string variable",
       "settings": {
-        "foreground": "#AAB0B3"
+        "foreground": "#C2C7CA"
       }
     },
     {
@@ -457,7 +457,7 @@
         "string.regexp string.regexp.arbitrary-repetition"
       ],
       "settings": {
-        "foreground": "#AAB0B3"
+        "foreground": "#C2C7CA"
       }
     },
     {
@@ -640,7 +640,7 @@
         "punctuation.definition.string.end.markdown"
       ],
       "settings": {
-        "foreground": "#AAB0B3"
+        "foreground": "#C2C7CA"
       }
     },
     {
