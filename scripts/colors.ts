@@ -61,6 +61,7 @@ export const WaverThemes = {
   decorator: [red.get("6d").hex(), red.get("7d").hex()],
   regex: [red.get("6d").hex(), red.get("7d").hex()],
 
+  gray: [gray.get("3").hex(), gray.get("6").hex()],
   green: [green.get("5d").hex(), green.get("7d").hex()],
   cyan: [cyan.get("5d").hex(), cyan.get("7d").hex()],
   blue: [lightblue.get("5d").hex(), lightblue.get("7d").hex()],
