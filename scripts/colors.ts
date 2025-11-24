@@ -40,7 +40,7 @@ export const WaverThemes = {
   selectionBackgroundInactive: ["#eeeeee16", "#22222216"],
 
   comment: ["#768085dd", "#a1a9ad"],
-  string: [gray.get("2d").hex(), gray.get("7d").hex()],
+  string: [gray.get("3d").hex(), gray.get("7d").hex()],
   variable: [pink.get("6d").hex(), pink.get("7d").hex()],
   keyword: [lightblue.get("6d").hex(), lightblue.get("7d").hex()],
   number: [green.get("6dd").hex(), green.get("7dd").hex()],

@@ -22,7 +22,7 @@ export default function getTheme(options: GetThemeOptions) {
     base: pick({ light: "vs", dark: "vs-dark" }),
     colors: {
       focusBorder: "#00000000",
-      foreground,
+      foreground: foreground,
       descriptionForeground: secondaryForeground,
       errorForeground: v("red"),
 
