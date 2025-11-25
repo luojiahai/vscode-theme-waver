@@ -1,3 +1,3 @@
 # Waver Theme for VSCode
 
-<a href="https://marketplace.visualstudio.com/items?itemName=luojiahai.waver-theme" target="_blank"><img src="https://img.shields.io/visual-studio-marketplace/v/luojiahai.waver-theme.svg?color=6aa7c5&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=luojiahai.waver-theme" target="_blank"><img src="https://img.shields.io/visual-studio-marketplace/v/luojiahai.waver-theme.svg?color=6aa7c5" alt="Visual Studio Marketplace Version" /></a>
