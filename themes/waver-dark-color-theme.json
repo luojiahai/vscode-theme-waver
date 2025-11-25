@@ -187,11 +187,11 @@
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "namespace": "#ABB0B2",
-    "property": "#ABB0B2",
-    "interface": "#C2A66E",
-    "type": "#C2A66E",
-    "class": "#C2A66E"
+    "namespace": "#5B9F72",
+    "property": "#6EA6C2",
+    "interface": "#5B9F9F",
+    "type": "#5B9F9F",
+    "class": "#5B9F9F"
   },
   "tokenColors": [
     {
@@ -239,7 +239,7 @@
         "meta.definition.variable"
       ],
       "settings": {
-        "foreground": "#ABB0B2"
+        "foreground": "#C26E8A"
       }
     },
     {
@@ -248,7 +248,7 @@
         "entity.name"
       ],
       "settings": {
-        "foreground": "#C26E8A"
+        "foreground": "#C28A6E"
       }
     },
     {
@@ -269,7 +269,7 @@
     {
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#C26E8A"
+        "foreground": "#C28A6E"
       }
     },
     {
@@ -292,7 +292,7 @@
         "constant.language.import-export-all.ts"
       ],
       "settings": {
-        "foreground": "#C26E6E"
+        "foreground": "#8D76BA"
       }
     },
     {
@@ -313,7 +313,7 @@
         "attribute.value"
       ],
       "settings": {
-        "foreground": "#5B9F72"
+        "foreground": "#BAA376"
       }
     },
     {
@@ -321,7 +321,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#5B9F7290"
+        "foreground": "#BAA37690"
       }
     },
     {
@@ -329,13 +329,13 @@
         "punctuation.support.type.property-name"
       ],
       "settings": {
-        "foreground": "#ABB0B290"
+        "foreground": "#6EA6C290"
       }
     },
     {
       "scope": "support",
       "settings": {
-        "foreground": "#ABB0B2"
+        "foreground": "#6EA6C2"
       }
     },
     {
@@ -347,7 +347,7 @@
         "attribute.name"
       ],
       "settings": {
-        "foreground": "#ABB0B2"
+        "foreground": "#6EA6C2"
       }
     },
     {
@@ -356,7 +356,7 @@
         "invalid.deprecated.entity.other.attribute-name.html"
       ],
       "settings": {
-        "foreground": "#ABB0B2"
+        "foreground": "#C26E8A"
       }
     },
     {
@@ -365,7 +365,7 @@
         "identifier"
       ],
       "settings": {
-        "foreground": "#ABB0B2"
+        "foreground": "#C26E8A"
       }
     },
     {
@@ -374,13 +374,13 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#C2A66E"
+        "foreground": "#5B9F9F"
       }
     },
     {
       "scope": "namespace",
       "settings": {
-        "foreground": "#ABB0B2"
+        "foreground": "#5B9F72"
       }
     },
     {
@@ -390,7 +390,7 @@
         "meta.var.expr.ts"
       ],
       "settings": {
-        "foreground": "#C26E6E"
+        "foreground": "#8D76BA"
       }
     },
     {
@@ -437,7 +437,7 @@
     {
       "scope": "string variable",
       "settings": {
-        "foreground": "#5B9F72"
+        "foreground": "#BAA376"
       }
     },
     {
@@ -457,7 +457,7 @@
         "string.regexp string.regexp.arbitrary-repetition"
       ],
       "settings": {
-        "foreground": "#5B9F72"
+        "foreground": "#BAA376"
       }
     },
     {
@@ -471,7 +471,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#ABB0B2"
+        "foreground": "#C26E8A"
       }
     },
     {
@@ -489,7 +489,7 @@
         "keyword.other.unit"
       ],
       "settings": {
-        "foreground": "#C26E6E"
+        "foreground": "#8D76BA"
       }
     },
     {
@@ -526,7 +526,7 @@
     {
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#C2A66E"
+        "foreground": "#5B9F9F"
       }
     },
     {
@@ -640,7 +640,7 @@
         "punctuation.definition.string.end.markdown"
       ],
       "settings": {
-        "foreground": "#5B9F72"
+        "foreground": "#BAA376"
       }
     },
     {
@@ -659,7 +659,7 @@
         "constant.other.character-class.regexp"
       ],
       "settings": {
-        "foreground": "#C2A66E"
+        "foreground": "#5B9F9F"
       }
     },
     {
@@ -667,7 +667,7 @@
         "entity.other.attribute-name.html.vue"
       ],
       "settings": {
-        "foreground": "#C26E8A"
+        "foreground": "#C28A6E"
       }
     },
     {
