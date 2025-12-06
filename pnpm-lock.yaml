@@ -38,9 +38,6 @@ importers:
       typescript-eslint:
         specifier: ^8.47.0
         version: 8.48.1(eslint@9.39.1)(typescript@5.9.3)
-      waver-color:
-        specifier: ^0.1.4
-        version: 0.1.4
 
 packages:
 
@@ -1690,9 +1687,6 @@ packages:
   version-range@4.15.0:
     resolution: {integrity: sha512-Ck0EJbAGxHwprkzFO966t4/5QkRuzh+/I1RxhLgUKKwEn+Cd8NwM60mE3AqBZg5gYODoXW0EFsQvbZjRlvdqbg==}
     engines: {node: '>=4'}
-
-  waver-color@0.1.4:
-    resolution: {integrity: sha512-n8gkuXXGwvMU9tufSOUCeZQv8w3H2SbScmBzHALj1brnsQf471uJRcKO8AH+7mxebiRWAcxLWEjoaNDjqKkZYQ==}
 
   whatwg-encoding@3.1.1:
     resolution: {integrity: sha512-6qN4hJdMwfYBtE3YBTTHhoeuUrDBPZmbQaxWAqSALV/MeEnR5z1xd8UKud2RAkFoPkmB+hli1TZSnyi84xz1vQ==}
@@ -3544,8 +3538,6 @@ snapshots:
       spdx-expression-parse: 3.0.1
 
   version-range@4.15.0: {}
-
-  waver-color@0.1.4: {}
 
   whatwg-encoding@3.1.1:
     dependencies:
